@@ -1,10 +1,12 @@
 import React from 'react'
-import './App.css'
+import "./assets/css/bootstrap.css";
+import "./assets/css/styles.css";
+import Header from './Components/Header'
 
 const App = () => {
   return (
     <>
-      
+      <Header />
     </>
   )
 }
