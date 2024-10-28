@@ -14,8 +14,7 @@ function Header() {
                             data-target=".navbar-collapse">
                             ☰
                         </button>
-                        <a className="navbar-brand mx-auto" href="#"><img src={appleLogo}/></a>
-
+                        <a className="navbar-brand mx-auto" href="#"><img src={appleLogo} /></a>
                         <div className="navbar-collapse collapse">
                             <ul className="navbar-nav nav-justified w-100 nav-fill">
                                 <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#">Mac</a></li>
@@ -26,9 +25,9 @@ function Header() {
                                 <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#">Music</a></li>
                                 <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#">Support</a></li>
                                 <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#"><img
-                                    src={searchIcon}/></a></li>
+                                    src={searchIcon} /></a></li>
                                 <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#"><img
-                                    src={cart}/></a></li>
+                                    src={cart} /></a></li>
                             </ul>
                         </div>
                     </nav>
