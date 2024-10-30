@@ -47,7 +47,7 @@ const Section = () => {
                     </div>
                 </div>
             </section>
-            {/* First section starts here */}
+            {/* First section ends here */}
 
             {/* Second section starts here */}
             <section className="second-hightlight-wrapper">
@@ -77,7 +77,7 @@ const Section = () => {
                     </div>
                 </div>
             </section>
-            {/* Second section starts here */}
+            {/* Second section ends here */}
 
             {/* Third section starts here */}
             <section className="third-hightlight-wrapper">
