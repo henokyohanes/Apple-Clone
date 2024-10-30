@@ -55,9 +55,9 @@ Apple-Clone
 
 ```
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/my-project.git`
+   `git clone https://github.com/yourusername/Apple-Clone.git`
 2. Navigate to the project directory:  
-   `cd my-project`
+   `cd Apple-Clone`
 3. Install the dependencies:  
    `npm install`
 ```
