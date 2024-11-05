@@ -112,9 +112,9 @@ const Section = () => {
                         <div className="left-side-wrapper col-sm-12 col-md-6">
                             <div className="left-side-container">
                                 <div className="top-logo-wrapper">
-                                    <div className="logo-wrapper"><img src={appleTv} /></div>
+                                    <div className="logo-wrapper"><img src={appleTv} alt="Apple TV" loading='lazy'/></div>
                                 </div>
-                                <div className="tvshow-logo-wraper"><img src={banker} /></div>
+                                <div className="tvshow-logo-wraper"><img src={banker} alt='Banker Icon' loading='lazy'/></div>
                                 <div className="watch-more-wrapper">
                                     <a href="#">Watch now on the Apple TV App</a>
                                 </div>
@@ -123,7 +123,7 @@ const Section = () => {
                         <div className="right-side-wrapper col-sm-12 col-md-6">
                             <div className="right-side-container">
                                 <div className="top-logo-wrapper">
-                                    <div className="logo-wrapper"><img src={watch} /></div>
+                                    <div className="logo-wrapper"><img src={watch} alt="Watch Image" loading='lazy'/></div>
                                 </div>
                                 <div className="description-wraper">
                                     With the Always-On Retina display.<br />
@@ -148,7 +148,7 @@ const Section = () => {
                         <div className="left-side-wrapper col-sm-12 col-md-6">
                             <div className="left-side-container">
                                 <div className="top-logo-wrapper">
-                                    <div className="logo-wrapper"><img src={arcade} /></div>
+                                    <div className="logo-wrapper"><img src={arcade} alt="Arcade Logo" loading='lazy'/></div>
                                 </div>
                                 <div className="description-wraper white">
                                     Agent 8 is a small hero on a big mission.

@@ -19,7 +19,7 @@ function Header() {
                     </button>
 
                     {/* Navbar brand logo*/}
-                    <a className="navbar-brand mx-auto" href="#"><img src={appleLogo} /></a>
+                    <a className="navbar-brand mx-auto" href="#"><img src={appleLogo} alt="Apple logo" loading='lazy'/></a>
 
                     {/* Navbar collapse menu items*/}
                     <div className="navbar-collapse collapse">
@@ -48,10 +48,10 @@ function Header() {
                                 <a className="nav-link js-scroll-trigger" href="#">Support</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link js-scroll-trigger" href="#"><img src={searchIcon} /></a>
+                                <a className="nav-link js-scroll-trigger" href="#"><img src={searchIcon} alt="Search Icon" loading='lazy'/></a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link js-scroll-trigger" href="#"><img src={cart} /></a>
+                                <a className="nav-link js-scroll-trigger" href="#"><img src={cart} alt="Cart Logo" loading='lazy'/></a>
                             </li>
                         </ul>
                     </div>

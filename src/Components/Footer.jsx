@@ -223,11 +223,12 @@ const Footer = () => {
                     </div>
                     <div className="footer-country  col-sm-12 order-1 col-md-4 order-md-2 text-md-right col-lg-2 order-lg-3">
                         <div className="flag-wrapper">
-                            <img src={a16} />
+                            <img src={a16} alt="Us Flag" loading='lazy'/>
                         </div>
                         <div className="footer-country-name">United States</div>
                     </div>
                 </div>
+                <h6>This site is a clone made for educational purposes and is not affiliated with Apple Inc.</h6>
             </div>
         </footer>
     );
