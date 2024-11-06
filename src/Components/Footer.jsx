@@ -228,7 +228,7 @@ const Footer = () => {
                         <div className="footer-country-name">United States</div>
                     </div>
                 </div>
-                <h6>This site is a clone made for educational purposes and is not affiliated with Apple Inc.</h6>
+                <h6><span>This site is a clone made for educational purposes and is not affiliated with Apple Inc.</span></h6>
             </div>
         </footer>
     );

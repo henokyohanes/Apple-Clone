@@ -3,7 +3,7 @@ import appleLogo from '../assets/images/icons/logo-sm.png'
 import searchIcon from '../assets/images/icons/search-icon-sm.png'
 import cart from '../assets/images/icons/cart-sm.png'
 
-function Header() {
+const Header = () => {
 
     // Render the header
     return (

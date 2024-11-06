@@ -93,7 +93,7 @@ img {
 	display: flex;
 }
 
-.footer-links-terms ul li {
+.footer-links-terms ul li a {
 	padding: 0 10px;
 	border-right: 1px solid #d2d2d7;
 }
@@ -128,8 +128,14 @@ img {
 
 .container h6 {
 	text-align: center;
+}
+
+.container h6 span{
+	/* text-align: center; */
 	font-weight: 600;
 	color: red;
+	border: 1px solid red;
+	padding: 5px;
 }
 
 /*Sixth Section*/
