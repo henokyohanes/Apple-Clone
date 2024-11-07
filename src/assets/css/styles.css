@@ -128,12 +128,8 @@ img {
 
 .container h6 {
 	text-align: center;
-}
-
-.container h6 span{
 	font-weight: 600;
 	color: red;
-	border: 1px solid red;
 	padding: 5px;
 }
 
