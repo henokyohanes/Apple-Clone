@@ -28,6 +28,8 @@ The Apple Clone front-end project is fully responsive and replicates the perfect
 
 ```
 Apple-Clone
+├── public/                          # public code for the app
+│   ├── robots.txt                   # Disallows search engines from indexing
 ├── src/                             # Source code for the app
 │   ├── Components/                  # Reusable components
 │   │   ├── Footer.jsx               # Footer component
@@ -55,7 +57,7 @@ Apple-Clone
 
 ```
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/Apple-Clone.git`
+   `git clone https://github.com/henokyohanes/Apple-Clone.git`
 2. Navigate to the project directory:  
    `cd Apple-Clone`
 3. Install the dependencies:  
