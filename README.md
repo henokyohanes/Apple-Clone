@@ -19,9 +19,8 @@ The Apple Clone front-end project is fully responsive and replicates the perfect
 ```
 1 - React.js: For building the user interface.
 2 - Vite: For fast build and development environment.
-3 - TMDb API: For fetching real-time movie and TV show data.
-4 - Styled-components: For component-level styling.
-5 - Bootstrap: For easy and fully responsive styling.
+3 - Styled-components: For component-level styling.
+4 - Bootstrap: For easy and fully responsive styling.
 ```
 
 ## File Structure
